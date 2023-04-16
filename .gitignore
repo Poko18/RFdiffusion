@@ -35,3 +35,4 @@ rfdiffusion.egg-info/PKG-INFO
 rfdiffusion.egg-info/requires.txt
 rfdiffusion.egg-info/SOURCES.txt
 rfdiffusion.egg-info/top_level.txt
+models/RF_structure_prediction_weights.pt
